@@ -5,6 +5,10 @@ file = "add_mods.sh"
 hash = "c72b0dc628a80bcc50d6848d00ea2180afdc2f7daa7bbdb726aa8abc6e68dead"
 
 [[files]]
+file = "index.html"
+hash = "b7e960cf25feef53b8d1e0d676bdc50d9c5a3ed6c09302c75f9d7bb00a53234c"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -117,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/civilis-technology-compatibility.pw.toml"
 hash = "184a3185f5cb7e2ec2d379cfea3efb92703ddb2a5f9fb05a41f66fecefbf1ae5"
+metafile = true
+
+[[files]]
+file = "mods/civillis.pw.toml"
+hash = "3cd68cec15bb0a81b7ec049c6150b26a8ab293dab494d791161a16cea3f574bd"
 metafile = true
 
 [[files]]
@@ -287,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
+metafile = true
+
+[[files]]
+file = "mods/critter-colonies-for-minecolonies.pw.toml"
+hash = "07046e19e04c57bdd4730b00efe345c23a898e11106c1ce35a19ad8d57b3739f"
 metafile = true
 
 [[files]]
@@ -476,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
@@ -892,11 +906,6 @@ metafile = true
 [[files]]
 file = "mods/talking-colonists-(minecolonies-addon).pw.toml"
 hash = "8ec4a2099a160f4a8e668ac8084d7bcaea3ccbe524929a76663835febef80001"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]

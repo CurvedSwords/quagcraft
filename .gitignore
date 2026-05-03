@@ -4,3 +4,6 @@
 
 -- old setup scripts
 add_mods.sh
+
+-- server setup files
+server mods/*

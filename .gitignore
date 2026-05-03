@@ -1,0 +1,6 @@
+-- export files
+*.mrpack
+*.zip
+
+-- old setup scripts
+add_mods.sh

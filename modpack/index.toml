@@ -129,31 +129,6 @@ hash = "3cd68cec15bb0a81b7ec049c6150b26a8ab293dab494d791161a16cea3f574bd"
 metafile = true
 
 [[files]]
-file = "mods/cobbledex-rei-emi-jei.pw.toml"
-hash = "f64594676448900b775878b4687d5688050731698939834a1719e48a7caab850"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-create-industries.pw.toml"
-hash = "1293a640844bb49123c1784e6744989c2ac903860b6e869ef1d313ff61632237"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "3efa711e77a99008f28b7831ab8696263bccaab984cd1e62e44b7220e69a6a3c"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
-metafile = true
-
-[[files]]
-file = "mods/cobblemore-library.pw.toml"
-hash = "cf4cb0b27f637954e20c73efa13d5ac2f543f1fad5a1e8dd344aeef678de8979"
-metafile = true
-
-[[files]]
 file = "mods/colonyrank.pw.toml"
 hash = "2e10f131bb22ae0f038089b568df077e14c405adfc10a164a8b8705e6b298475"
 metafile = true
@@ -196,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
@@ -356,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-cobblemon.pw.toml"
-hash = "72691e1f2dc11718e8b8f62dcd368ac7537aa0c0670dc9c34f27cfe2d1aca66e"
 metafile = true
 
 [[files]]
@@ -585,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "89ffd1297ebc4b0ac4773a5b9483f765c5cfe3fa034767da61129820c47de965"
+hash = "43908d26ef77cc78e08ba2edae2ca63a56d7da415ff48c61e485c46edeacefeb"
 metafile = true
 
 [[files]]
@@ -596,11 +571,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
-metafile = true
-
-[[files]]
-file = "mods/lootrmon.pw.toml"
-hash = "4fc73c53deeb29e98ee31b7cb534f80ed3635afc54f7c37460cfba92718ce74a"
 metafile = true
 
 [[files]]
@@ -816,6 +786,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]

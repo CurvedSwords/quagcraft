@@ -1,13 +1,13 @@
 name = "Quagcraft"
 author = "CurvedSwords"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Quagsire modpack"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e09e4beea08b38031665871cb6b85a30c48625cc65d4dd8d44f9b7c90f212b69"
+hash = "95e4644a7b4607d657bc71959d77bf074e37586f0c1381296625dcffa637e383"
 
 [versions]
 minecraft = "1.21.1"

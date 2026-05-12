@@ -1,13 +1,13 @@
 name = "Pathfinding Edition for MineColonies"
-filename = "colonypathingedition-1.21.1-1.0.5-ALPHA-8.3.jar"
+filename = "colonypathingedition-1.21.1-1.0.5-BETA-8.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UFGyxCZm/versions/HgHD7Xnh/colonypathingedition-1.21.1-1.0.5-ALPHA-8.3.jar"
+url = "https://cdn.modrinth.com/data/UFGyxCZm/versions/1bYknNeF/colonypathingedition-1.21.1-1.0.5-BETA-8.5.jar"
 hash-format = "sha512"
-hash = "72e82a32a55a2db7f5e6a358dd22480535957ecc4eae70b61120b30a6085ab9adf2baf92c80aa135610a74fb68040e22825999d66e6785f52c82a469ca20ef11"
+hash = "08d2f5f49bffe083ba87d24e301fce54908730da7a71cdd593e05abfb9808be93a4a5710ad4ce2d1e0560f30afd78226932babebd095d10916d158ab6e499298"
 
 [update]
 [update.modrinth]
 mod-id = "UFGyxCZm"
-version = "HgHD7Xnh"
+version = "1bYknNeF"

@@ -1,13 +1,13 @@
 name = "ColonyRank | Minecolonies Addon"
-filename = "ColonyRank-1.21.1.jar"
+filename = "ColonyRank-1.21.1-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aAk52ELi/versions/KiMtQeSV/ColonyRank-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/aAk52ELi/versions/QUdzD46g/ColonyRank-1.21.1-1.0.1.jar"
 hash-format = "sha512"
-hash = "c62ae5d57991b9a6efb6946048a1c92ee608fdfc194fef3cc8d15c567d9c45296b199a0e65610d9773c9aace1d48962997ad54fd5ded46035598399a41f768ae"
+hash = "f490c9c87e7acc603ffe53eb2c77651f04554ea3f0fb265e2ddd9c615152da6286017fd0a1c5282cdf40ef98ad3a78427391d177c42f92ad6ca1db4b732e92be"
 
 [update]
 [update.modrinth]
 mod-id = "aAk52ELi"
-version = "KiMtQeSV"
+version = "QUdzD46g"

@@ -1,13 +1,13 @@
 name = "Critter Colonies (for MineColonies)"
-filename = "crittercolonies-1.21.1-0.3.1-neoforge.jar"
+filename = "crittercolonies-1.21.1-0.4.0-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f20a03ca8b5e04fe844c7a9bdaf2439a57dd65fb"
+hash = "e93d0bd07205bae5e80ad2447ee01091feaa42d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7983125
+file-id = 8051159
 project-id = 1475464

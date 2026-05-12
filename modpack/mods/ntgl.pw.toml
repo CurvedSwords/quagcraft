@@ -1,0 +1,13 @@
+name = "[NTGL] NukaTeam's Gun Lib"
+filename = "ntgl-1.21.1-3.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5m2kV8xK/versions/WXKlNCxn/ntgl-1.21.1-3.1.4.jar"
+hash-format = "sha512"
+hash = "1cf30825f5635159aec373e504dc4a5719079f04bdb0f70343f129de1b96a0a4df35c06dfad087d81c613411a19bc5ad2f5cf560f803bfaab45a62803c357254"
+
+[update]
+[update.modrinth]
+mod-id = "5m2kV8xK"
+version = "WXKlNCxn"

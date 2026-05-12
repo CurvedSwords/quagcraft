@@ -1,6 +1,6 @@
 name = "ColonyRank | Minecolonies Addon"
 filename = "ColonyRank-1.21.1.jar"
-side = "server"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/aAk52ELi/versions/KiMtQeSV/ColonyRank-1.21.1.jar"
